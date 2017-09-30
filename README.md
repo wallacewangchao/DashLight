@@ -7,5 +7,5 @@ The structure design of LED panel has tree benefits:
 1.Defusing the light, without distracting drivers. 
 2.Makeing sure that light shines to the driver, avoiding reflection on the windshield. 
 3.Gorgeous, intergrated into the interior of the vehicle.
-4.Modular designed, fitting in different kinds of dashboard, roof, side door.
 
+Through modular design, DashLight fits in different kinds of dashboard, roof, side door. This project enable each researcher to implement their ambient lighting prototype in feild study. 

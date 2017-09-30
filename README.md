@@ -8,4 +8,4 @@ The structure design of LED panel has three benefits:
 2.Makeing sure that light shines to the driver, avoiding reflection on the windshield. 
 3.Gorgeous, intergrated into the interior of the vehicle.
 
-Through modular design, DashLight fits in different kinds of dashboard, roof, side door. This project enable each researcher to implement their ambient lighting prototype in feild study. 
+Through modular design, DashLight fits in different kinds of dashboard, roof, side door. This project enable each researcher to implement his/her ambient lighting prototype in feild study. 

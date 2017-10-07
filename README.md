@@ -37,7 +37,7 @@ All the components are made by laser cut. The blue/yellow curves are the cutting
 About the Painting: The wood cover could be print to black or any other colour by spray paint (such as DashLight/Assembling/acrilex.jpg ), after the laser cut and before assembling.
 
 # Assembling
-About the assembling: The glue for plastic is strong enough to connect all the components together. (such as DashLight/Assembling/64e770b0-43f7-4049-819a-c16cc2b0c30c_1000.jpg ) You can also use the double side tap.
+About the assembling: The glue for plastic is strong enough to connect all the components together. (such as https://github.com/wallacewangchao/DashLight/blob/master/Assembling/64e770b0-43f7-4049-819a-c16cc2b0c30c_1000.jpg ) You can also use the double side tap.
 
 # Publication
 Wang, C., Sander Steeghs., Debayan Chakraborty., Archita Gorle., Debargha Dey., Sietze van de Star., Adityen Sudhakaran., Terken, J., & Hu, J. (2017, September). Designing for Enhancing Situational Awareness of Semi-Autonomous Driving Vehicles. In Adjunct Proceedings of the 9th International Conference on Automotive User Interfaces and Interactive Vehicular Applications. ACM.

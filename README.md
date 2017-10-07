@@ -8,10 +8,10 @@ The structure design of LED panel has three benefits:
 2.Makeing sure that light shines to the driver, avoiding reflection on the windshield. 
 3.Gorgeous, intergrated into the interior of the vehicle.
 
-Through modular design, DashLight fits in different kinds of dashboard, roof, side door. This project enable each researcher to implement his/her ambient lighting prototype in feild study. 
+Through modular design, DashLight fits in different kinds of dashboard, roof, side door. This project enable each researcher to implement his/her ambient lighting prototype in feild study.
 
 # Structure & Materials
-About the Structure and material, See pic (https://github.com/wallacewangchao/DashLight/blob/master/Structure_Of_DashLight.jpg): The dash light consists of 8 components.
+About the Structure and material, See pic https://github.com/wallacewangchao/DashLight/blob/master/Structure_Of_DashLight.jpg: The dash light consists of 8 components.
 
 (1) Up cover unit (2mm Wood), for avoiding light going to up direction.
 
@@ -38,3 +38,9 @@ About the Painting: The wood cover could be print to black or any other colour b
 
 # Assembling
 About the assembling: The glue for plastic is strong enough to connect all the components together. (such as ) You can also use the double side tap.
+
+# Demostration
+The vehicle with dashlight is demonstrated in the AUTO UI 17'(https://www.auto-ui.org/17/), and got the best demo award; It was also demonstrated in the 67th Frankfurt Auto Show (Internationale Automobil-Ausstellung 2017, https://www.iaa.de/en/). 
+
+# Publication
+

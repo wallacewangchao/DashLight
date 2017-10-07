@@ -34,7 +34,7 @@ About the laser cut blueprint:
 All the components are made by laser cut. The blue/yellow curves are the cutting-off lines. The black/red curves are the engraving lines.
 
 # Painting
-About the Painting: The wood cover could be print to black or any other colour by spray paint (such as DashLight/Assembling/acrilex.jpg ), after the laser cut and before assembling.
+About the Painting: The wood cover could be print to black or any other colour by spray paint (such as https://github.com/wallacewangchao/DashLight/blob/master/Assembling/acrilex.jpg ), after the laser cut and before assembling.
 
 # Assembling
 About the assembling: The glue for plastic is strong enough to connect all the components together. (such as https://github.com/wallacewangchao/DashLight/blob/master/Assembling/64e770b0-43f7-4049-819a-c16cc2b0c30c_1000.jpg ) You can also use the double side tap.

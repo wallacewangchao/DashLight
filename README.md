@@ -41,7 +41,7 @@ About the assembling: The glue for plastic is strong enough to connect all the c
 
 # Publication
 Wang, C., Sander Steeghs., Debayan Chakraborty., Archita Gorle., Debargha Dey., Sietze van de Star., Adityen Sudhakaran., Terken, J., & Hu, J. (2017, September). Designing for Enhancing Situational Awareness of Semi-Autonomous Driving Vehicles. In Adjunct Proceedings of the 9th International Conference on Automotive User Interfaces and Interactive Vehicular Applications. ACM.
-https://github.com/wallacewangchao/DashLight/blob/master/Designing%20for%20Enhancing%20Situational%20Awareness%20of%20Semi-Autonomous%20Driving%20vehicles_CameraReady.pdf
+https://github.com/wallacewangchao/DashLight/blob/master/Publication/Designing%20for%20Enhancing%20Situational%20Awareness%20of%20Semi-Autonomous%20Driving%20vehicles_CameraReady.pdf
 
 # Demostration
 The vehicle with dashlight is demonstrated in the AUTO UI 17'(https://www.auto-ui.org/17/), and got the best demo award; It was also demonstrated in the 67th Frankfurt Auto Show (Internationale Automobil-Ausstellung 2017, https://www.iaa.de/en/). 

@@ -1,5 +1,5 @@
 # DashLight
-The DashLight is one of the HMI design component of ATeam (https://wordpress.com/view/chaoswang.wordpress.com) (https://ateam-eindhoven.nl), to enhancing situational awareness of people sittiing in the autonomous driving vehicle. 
+The DashLight is one of the HMI design component of ATeam (https://chaoswang.wordpress.com/portfolio/hmi-design-of-a-team/) (https://ateam-eindhoven.nl), to enhancing situational awareness of people sittiing in the autonomous driving vehicle. 
 
 DashLight uses LED on the dashboard as ambient display to delivery peripheral information,as a supplement of centre screen. The panel on the dash board consists of multiple perspex-spots, lighten by one led strip that can change colours and patterns of lights.
 
